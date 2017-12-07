@@ -46,6 +46,7 @@ def nouna():
  print "The MD5 Crypt of ",zeb, (nik)
  return
 os.system('cls' if os.name == 'nt' else 'clear')
+main()
 print "hello sir please choose what you need : "
 print "[1]MD5"
 print "[2]BASE64"
